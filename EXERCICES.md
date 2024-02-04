@@ -20,9 +20,9 @@ Listes des points attendu:
 - [ ] script bash qui execute tout les test
 
 Listes des points bonus
-- [ ] La commande d'ajout de données utilise FakerPHP
+- [ ] La commande d'ajout de données utilise FakerPHP #fait
 - [ ] Ajouter des test unitaire
-- [ ] un dossier Githook, avec un precommit et prepush qui execute tout les tests
+- [ ] un dossier Githook, avec un precommit (fait) et prepush qui execute tout les tests
 
 Listes des point bonus si vous avez le projet sur github
 - [ ] Ajouter une Github Action qui execute phpstan/phpcs/phpunit
